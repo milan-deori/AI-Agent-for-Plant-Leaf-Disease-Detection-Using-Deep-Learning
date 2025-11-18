@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🍃 Leaf Disease Detection System
 
 This project is a complete solution for detecting diseases in plant leaves (Potato & Pepper Bell) using a deep learning model. It consists of a **FastAPI backend** and a **React-based frontend** for seamless interaction. Users can upload an image of a leaf, and the system will predict the disease along with its confidence level.
@@ -68,3 +69,7 @@ CLASS_NAMES = [
   "Tomato Bacterial Spot",
   "Tomato Healthy"
 ]
+=======
+# AI-Agent-for-Plant-Leaf-Disease-Detection-Using-Deep-Learning
+An AI-powered web app to detect crop leaf diseases (Potato &amp; Tomato) using a custom CNN model. Upload a leaf image to identify Early Blight, Late Blight, or Healthy status. Built with React, Node.js, and TensorFlow, it offers real-time predictions and toast notifications for feedback.
+>>>>>>> 04f3c97147c206d26d9e6b3f5fdfc0719eec7da5
